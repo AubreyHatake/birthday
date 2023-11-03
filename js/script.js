@@ -8,51 +8,51 @@ alert("Howdy " + username + "! You are " + age + " years old!" + " and you were 
 
 
 // Seasons and birthstones 
-if (month == "April" || "april" )
+if (month == "April" )
 {
     alert("You were born in the spring and your birthstone is a diamond")
 }
-else if (month == "January" || "january")
+else if (month == "January" )
 {
     alert("You were born in the winter and your birthstone is a garnet")
 }
-else if (month == "Febuary" || "febuary")
+else if (month == "Febuary" )
 {
     alert("You were born in the winter and your birthstone is a amethyst")
 }
-else if (month == "March" || "march")
+else if (month == "March" )
 {
     alert("You were born in the spring and your birthstone is a aquamarine")
 }
-else if (month == "May" || "may")
+else if (month == "May" )
 {
     alert("You were born in the spring and your birthstone is a emerald")
 }
-else if (month == "June" || "june")
+else if (month == "June")
 {
     alert("You were born in the summer and your birthstone is a alexandrite")
 }
-else if (month == "July" || "july")
+else if (month == "July")
 {
     alert("You were born in the summer and your birthstone is a ruby")
 }
-else if (month == "August" || "august")
+else if (month == "August" )
 {
     alert("You were born in the summer and your birthstone is a peridot")
 }
-else if (month == "September" || "september")
+else if (month == "September" )
 {
     alert("You were born in the fall and your birthstone is a sapphire")
 }
-else if (month == "October" || "october")
+else if (month == "October" )
 {
     alert("You were born during the spooky fall and your birthstone is a tourmaline")
 }
-else if (month == "November" || "november")
+else if (month == "November" )
 {
     alert("You were born in the fall and your birthstone is a citrine")
 }
-else if (month = "December" || "december")
+else if (month = "December" )
 {
     alert("You were born in the winter and your birthstone is a tanzanite")
 }
